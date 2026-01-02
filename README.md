@@ -35,7 +35,7 @@ I am an **iOS Software Engineer** with 2+ years of experience specializing in **
 
 ### 🛠 Skills
 
-* **Languages:** Swift, C++, Objective-C++
+* **Languages:** Swift, C++, Objective-C
 * **Mobile:** SwiftUI, UIKit, Combine, Swift Concurrency, MVVM, XCTest
 * **Systems:** WebRTC, Node.js, Firebase, REST API, JSON Parsing
 * **Tools:** Xcode Instruments, Git, Figma, Adobe XD
