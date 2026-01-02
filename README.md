@@ -1,24 +1,200 @@
-# 💫 About Me:
-# Kirtidhwaj Patra<br><br>iOS Engineer · SwiftUI · Systems-Oriented Mobile Development<br><br>I build native iOS applications with an emphasis on performance, correctness, and scalable architecture. My work focuses on clean state management, concurrency, and integrating low-level systems where required.<br><br>---<br><br>## Experience Summary<br><br>- Production iOS development using Swift, SwiftUI, and UIKit  <br>- Strong grounding in MVVM and modular architecture  <br>- Experience integrating C++ components into iOS via Objective-C++ for performance-critical workflows  <br>- Concurrency-safe design using Swift Concurrency and structured async patterns  <br>- UI implementation informed by iOS Human Interface Guidelines<br><br>---<br><br>## Selected Projects<br><br>**EnglishCallingApp**  <br>Real-time peer-to-peer audio calling app for English practice, built with WebRTC and a lightweight Node.js signaling service.  <br>_Emphasis: real-time systems, concurrency, audio pipelines, MVVM._<br><br>**Ludo – iOS Game**  <br>Native SwiftUI implementation of the Ludo board game with deterministic game logic and smooth interaction design.  <br>_Emphasis: state management, animation, modular architecture._<br><br>**TicTacToe – Multiplayer**  <br>Local and online multiplayer iOS game with an AI opponent and real-time state synchronization.  <br>_Emphasis: algorithms, game theory, networking, fault-tolerant state handling._<br><br>---<br><br>## Technical Strengths<br><br>- **Languages:** Swift, C++  <br>- **iOS:** SwiftUI, UIKit, Combine, Swift Concurrency  <br>- **Architecture:** MVVM, modular systems, unidirectional state flow  <br>- **Systems:** WebRTC, low-latency networking, performance profiling  <br>- **Problem Solving:** Data Structures & Algorithms (C++)<br><br>---<br><br>## Engineering Approach<br><br>I prioritize correctness first, performance second, and polish through iteration. I aim to design systems that are easy to reason about, test, and extend over time.<br><br>---<br><br>## Links<br><br>- GitHub: https://github.com/kirtidhwajpatra  <br>- LinkedIn: https://linkedin.com/in/kirtidhwaj-patra  <br>- LeetCode: https://leetcode.com/kirtidhwajpatra2<br>
+<!-- HERO -->
+<h1 align="left" style="margin-bottom: 4px;">Kirtidhwaj Patra</h1>
 
+<h3 align="left" style="margin-top: 0; font-weight: normal; color: #9be9a8;">
+  iOS Engineer · SwiftUI · Systems-Oriented Mobile Development
+</h3>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kirtidhwaj-patra/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@MrSwiftUI) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Kirtidhwaj Patra) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kirtidhwajpatra@gmail.com) 
+<p style="max-width: 820px; line-height: 1.6;">
+I build production-quality native iOS applications with a strong focus on correctness,
+performance, and scalable system architecture. My work emphasizes clean state management,
+concurrency-safe design, and integrating low-level systems when abstractions fall short.
+</p>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=flat-square&logo=apple&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat-square&logo=swift&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io&badgeColor=010101) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat-square&logo=adobe&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat-square&logo=adobe%20illustrator&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=flat-square&logo=adobeindesign&logoColor=FF3366) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat-square&logo=Adobe%20XD&logoColor=#FF61F6) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=flat-square&logo=bitbucket&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kirtidhwajpatra&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=kirtidhwajpatra&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kirtidhwajpatra&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kirtidhwajpatra&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<!-- SNAPSHOT -->
+<table width="100%">
+<tr>
+<td>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=kirtidhwajpatra&limit=5&theme=default&combine_all_yearly_contributions=true)
+<h3 style="margin-bottom: 6px;">Snapshot</h3>
 
----
-[![](https://visitcount.itsvg.in/api?id=kirtidhwajpatra&icon=8&color=0)](https://visitcount.itsvg.in)
+<ul>
+  <li><b>Platform:</b> iOS</li>
+  <li><b>Primary Stack:</b> Swift, SwiftUI, UIKit</li>
+  <li><b>Focus Areas:</b> Real-time systems, concurrency, performance-sensitive UI</li>
+  <li><b>Engineering Values:</b> Correctness → Performance → Polish</li>
+</ul>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- PROFESSIONAL SUMMARY -->
+<table width="100%">
+<tr>
+<td>
+
+<h3 style="margin-bottom: 6px;">Professional Summary</h3>
+
+<p style="line-height: 1.6; max-width: 900px;">
+I am a native iOS engineer experienced in building real-world mobile systems that go beyond
+static UI. My work spans real-time communication, deterministic game logic, and
+performance-aware UI architecture.
+</p>
+
+<p style="line-height: 1.6; max-width: 900px;">
+I approach problems from a systems perspective: defining clear invariants, minimizing mutable
+shared state, and designing components that remain predictable, testable, and resilient as
+complexity increases.
+</p>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- SELECTED PROJECTS -->
+<h2 style="margin-bottom: 8px;">Selected Projects</h2>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
+
+<h4 style="margin-bottom: 4px;">EnglishCallingApp</h4>
+<p style="font-size: 14px; line-height: 1.5;">
+Real-time peer-to-peer audio calling app for English practice.
+</p>
+<ul>
+  <li>WebRTC-based low-latency audio</li>
+  <li>Node.js signaling service</li>
+  <li>MVVM architecture</li>
+</ul>
+<p style="font-size: 13px; color: #9be9a8;">
+Real-time systems · Concurrency · Audio pipelines
+</p>
+
+</td>
+
+<td width="33%" valign="top">
+
+<h4 style="margin-bottom: 4px;">Ludo – iOS Game</h4>
+<p style="font-size: 14px; line-height: 1.5;">
+Modern native implementation of the classic Ludo board game.
+</p>
+<ul>
+  <li>Deterministic game engine</li>
+  <li>Smooth SwiftUI animations</li>
+  <li>Modular architecture</li>
+</ul>
+<p style="font-size: 13px; color: #9be9a8;">
+State management · Animation systems
+</p>
+
+</td>
+
+<td width="33%" valign="top">
+
+<h4 style="margin-bottom: 4px;">TicTacToe – Multiplayer</h4>
+<p style="font-size: 14px; line-height: 1.5;">
+Local and real-time multiplayer TicTacToe with AI opponent.
+</p>
+<ul>
+  <li>Minimax-based AI</li>
+  <li>Fault-tolerant state sync</li>
+  <li>Network resilience handling</li>
+</ul>
+<p style="font-size: 13px; color: #9be9a8;">
+Algorithms · Networking · Game theory
+</p>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- TECHNICAL STRENGTHS -->
+<h2 style="margin-bottom: 8px;">Technical Strengths</h2>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+<h4>Languages</h4>
+<ul>
+  <li>Swift</li>
+  <li>C++</li>
+  <li>Objective-C++</li>
+</ul>
+
+<h4>iOS & UI</h4>
+<ul>
+  <li>SwiftUI</li>
+  <li>UIKit</li>
+  <li>Combine</li>
+  <li>Swift Concurrency</li>
+</ul>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h4>Architecture & Systems</h4>
+<ul>
+  <li>MVVM</li>
+  <li>Unidirectional state flow</li>
+  <li>Explicit state machines</li>
+</ul>
+
+<h4>Networking & Performance</h4>
+<ul>
+  <li>WebRTC</li>
+  <li>Low-latency networking</li>
+  <li>Profiling & optimization</li>
+</ul>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- ENGINEERING APPROACH -->
+<table width="100%">
+<tr>
+<td>
+
+<h2 style="margin-bottom: 6px;">Engineering Approach</h2>
+
+<ul>
+  <li><b>Correctness first:</b> establish invariants and make invalid states unrepresentable</li>
+  <li><b>Performance-aware:</b> profile before optimizing, optimize where it matters</li>
+  <li><b>Concurrency-safe:</b> structured async, minimal shared mutable state</li>
+  <li><b>Modular by default:</b> small, composable components with clear responsibilities</li>
+  <li><b>Iterative polish:</b> stabilize behavior first, then refine UX and motion</li>
+</ul>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- LINKS -->
+<h2>Links</h2>
+
+<ul>
+  <li><a href="https://github.com/kirtidhwajpatra">GitHub</a></li>
+  <li><a href="https://linkedin.com/in/kirtidhwaj-patra">LinkedIn</a></li>
+  <li><a href="https://leetcode.com/kirtidhwajpatra2">LeetCode</a></li>
+</ul>
+
+<p style="font-size: 13px; color: #9be9a8;">
+Currently focused on building robust iOS systems and advancing toward product-driven,
+high-impact engineering roles.
+</p>
