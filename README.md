@@ -1,118 +1,24 @@
-<h1 align="left">Kirtidhwaj Patra</h1>
+# 💫 About Me:
+# Kirtidhwaj Patra<br><br>iOS Engineer · SwiftUI · Systems-Oriented Mobile Development<br><br>I build native iOS applications with an emphasis on performance, correctness, and scalable architecture. My work focuses on clean state management, concurrency, and integrating low-level systems where required.<br><br>---<br><br>## Experience Summary<br><br>- Production iOS development using Swift, SwiftUI, and UIKit  <br>- Strong grounding in MVVM and modular architecture  <br>- Experience integrating C++ components into iOS via Objective-C++ for performance-critical workflows  <br>- Concurrency-safe design using Swift Concurrency and structured async patterns  <br>- UI implementation informed by iOS Human Interface Guidelines<br><br>---<br><br>## Selected Projects<br><br>**EnglishCallingApp**  <br>Real-time peer-to-peer audio calling app for English practice, built with WebRTC and a lightweight Node.js signaling service.  <br>_Emphasis: real-time systems, concurrency, audio pipelines, MVVM._<br><br>**Ludo – iOS Game**  <br>Native SwiftUI implementation of the Ludo board game with deterministic game logic and smooth interaction design.  <br>_Emphasis: state management, animation, modular architecture._<br><br>**TicTacToe – Multiplayer**  <br>Local and online multiplayer iOS game with an AI opponent and real-time state synchronization.  <br>_Emphasis: algorithms, game theory, networking, fault-tolerant state handling._<br><br>---<br><br>## Technical Strengths<br><br>- **Languages:** Swift, C++  <br>- **iOS:** SwiftUI, UIKit, Combine, Swift Concurrency  <br>- **Architecture:** MVVM, modular systems, unidirectional state flow  <br>- **Systems:** WebRTC, low-latency networking, performance profiling  <br>- **Problem Solving:** Data Structures & Algorithms (C++)<br><br>---<br><br>## Engineering Approach<br><br>I prioritize correctness first, performance second, and polish through iteration. I aim to design systems that are easy to reason about, test, and extend over time.<br><br>---<br><br>## Links<br><br>- GitHub: https://github.com/kirtidhwajpatra  <br>- LinkedIn: https://linkedin.com/in/kirtidhwaj-patra  <br>- LeetCode: https://leetcode.com/kirtidhwajpatra2<br>
 
-<p align="left">
-  <b>iOS Engineer</b> · SwiftUI · Systems-Oriented Mobile Development
-</p>
 
-<p>
-  <img src="https://img.shields.io/badge/Level-Mid%20to%20Senior-1DB954?style=flat-square&logo=apple&logoColor=white" height="26">
-  &nbsp;
-  <img src="https://img.shields.io/badge/Work-Remote%20%7C%20Hybrid-121212?style=flat-square&logoColor=white" height="26">
-  &nbsp;
-  <img src="https://img.shields.io/badge/Location-India-121212?style=flat-square&logoColor=white" height="26">
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kirtidhwaj-patra/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@MrSwiftUI) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Kirtidhwaj Patra) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kirtidhwajpatra@gmail.com) 
 
-<br>
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=flat-square&logo=apple&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat-square&logo=swift&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io&badgeColor=010101) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat-square&logo=adobe&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat-square&logo=adobe%20illustrator&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=flat-square&logo=adobeindesign&logoColor=FF3366) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat-square&logo=Adobe%20XD&logoColor=#FF61F6) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=flat-square&logo=bitbucket&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=kirtidhwajpatra&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=kirtidhwajpatra&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kirtidhwajpatra&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<table>
-<tr>
-<td>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=kirtidhwajpatra&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<b>Profile</b><br><br>
-I design and build high-performance native iOS applications with a strong focus on correctness, concurrency, and scalable system architecture.  
-My work emphasizes predictable state management, low-latency real-time systems, and polished interaction quality aligned with Apple’s Human Interface Guidelines.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=kirtidhwajpatra&limit=5&theme=default&combine_all_yearly_contributions=true)
 
-</td>
-</tr>
-</table>
+---
+[![](https://visitcount.itsvg.in/api?id=kirtidhwajpatra&icon=8&color=0)](https://visitcount.itsvg.in)
 
-<br>
-
-<h3>Selected Work</h3>
-
-<table>
-<tr>
-<td width="33%"><b>EnglishCallingApp</b><br><br>
-Real-time peer-to-peer audio calling platform using WebRTC and a lightweight Node.js signaling service.<br><br>
-<i>Focus:</i> real-time systems, audio pipelines, concurrency, MVVM
-</td>
-
-<td width="33%"><b>Ludo – iOS Game</b><br><br>
-Native SwiftUI implementation of the Ludo board game with deterministic game logic and smooth interaction design.<br><br>
-<i>Focus:</i> state management, animation systems, modular architecture
-</td>
-
-<td width="33%"><b>TicTacToe – Multiplayer</b><br><br>
-Local and online multiplayer game featuring Minimax AI and fault-tolerant real-time synchronization.<br><br>
-<i>Focus:</i> algorithms, game theory, networking, resilience
-</td>
-</tr>
-</table>
-
-<br>
-
-<h3>Engineering Approach</h3>
-
-<ul>
-  <li>Correctness first, performance second, polish through iteration</li>
-  <li>Strong understanding of Swift Concurrency and structured async design</li>
-  <li>Comfortable integrating low-level systems when abstractions fall short</li>
-  <li>UI implementation guided strictly by Apple Human Interface Guidelines</li>
-</ul>
-
-<br>
-
-<h3>Core Skills</h3>
-
-<p>
-  <img src="https://img.shields.io/badge/Swift-121212?style=flat-square&logo=swift&logoColor=1DB954">
-  <img src="https://img.shields.io/badge/SwiftUI-121212?style=flat-square&logo=apple&logoColor=1DB954">
-  <img src="https://img.shields.io/badge/UIKit-121212?style=flat-square&logo=apple&logoColor=1DB954">
-  <img src="https://img.shields.io/badge/Objective--C++-121212?style=flat-square&logo=c%2B%2B&logoColor=1DB954">
-  <img src="https://img.shields.io/badge/WebRTC-121212?style=flat-square&logo=webrtc&logoColor=1DB954">
-  <img src="https://img.shields.io/badge/MVVM-121212?style=flat-square&logoColor=1DB954">
-  <img src="https://img.shields.io/badge/Concurrency-121212?style=flat-square&logoColor=1DB954">
-  <img src="https://img.shields.io/badge/Algorithms-121212?style=flat-square&logo=leetcode&logoColor=1DB954">
-</p>
-
-<br>
-
-<h3>Tooling</h3>
-
-<table>
-<tr>
-<td width="50%">
-<b>Xcode & Instruments</b><br>
-Performance profiling and optimization
-</td>
-<td width="50%">
-<b>Git & GitHub</b><br>
-Version control and CI workflows
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-<b>Google Cloud</b><br>
-Backend services and realtime data
-</td>
-<td width="50%">
-<b>Figma</b><br>
-UI/UX collaboration and design handoff
-</td>
-</tr>
-</table>
-
-<br>
-
-<h3>Contact</h3>
-
-<p>
-  <a href="mailto:kirtidhwajpatra@gmail.com">
-    <img src="https://img.shields.io/badge/Email-1DB954?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/kirtidhwaj-patra">
-    <img src="https://img.shields.io/badge/LinkedIn-121212?style=for-the-badge&logo=linkedin&logoColor=1DB954">
-  </a>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
