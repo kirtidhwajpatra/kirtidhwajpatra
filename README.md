@@ -14,11 +14,15 @@ concurrency-safe design, and integrating low-level systems when abstractions fal
 <br>
 
 <!-- SNAPSHOT -->
-<table width="100%">
+<table width="100%" align="center">
 <tr>
-<td>
+<td align="center">
 
-<h3 style="margin-bottom: 6px;">Snapshot</h3>
+<table width="90%">
+<tr>
+<td align="left">
+
+<h3>Snapshot</h3>
 
 <ul>
   <li><b>Platform:</b> iOS</li>
@@ -31,7 +35,9 @@ concurrency-safe design, and integrating low-level systems when abstractions fal
 </tr>
 </table>
 
-<br>
+</td>
+</tr>
+</table>
 
 <!-- PROFESSIONAL SUMMARY -->
 <table width="100%">
