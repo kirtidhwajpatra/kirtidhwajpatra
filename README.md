@@ -23,7 +23,7 @@ I am an **iOS Software Engineer** with 2+ years of experience specializing in **
 * **Flow Optimization:** Reduced user drop-off by **20%** during onboarding through optimized navigation patterns.
 * **Performance:** Refined render loops and memory usage to ensure "butter-smooth" interactions across devices.
 
-**Creative Partner | POP Club** *(Oct 2022 - March 2024)*
+**Creative Partner | POP Club** *(Oct 2023 - March 2024)*
 * **Mobile-First:** Championed strict adherence to iOS Human Interface Guidelines (HIG).
 * **Prototyping:** Validated complex motion concepts using GSAP before engineering handoff.
 
