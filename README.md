@@ -1,53 +1,106 @@
-# About Me
+👋 About Me
 
-Hi, I'm Kirtidhwaj Patra! 👋
+Hi, I’m Kirtidhwaj Patra.
 
-I am an **iOS Software Engineer** with 2+ years of experience specializing in **Swift**, **SwiftUI**, and **UIKit**. I focus on building high-performance, human-centered products by combining strong engineering practices (Concurrency, C++, MVVM) with precise UI/UX execution.
+I’m an iOS Engineer with 2.5+ years of experience building high-performance, production-grade iOS applications. I specialize in Swift, SwiftUI, and UIKit, with a strong focus on modular architecture, concurrency, and system reliability.
 
-### 🌟 Professional Impact
+I enjoy working on problems where state, data flow, and user experience intersect, and I care deeply about writing code that scales well over time.
 
-* **Real-time Communication:** Engineered a low-latency P2P audio calling platform using **WebRTC** and Node.js signaling, enabling smooth English practice sessions.
-* **Game Engine Design:** Developed a deterministic game engine for a native **Ludo** iOS game, optimizing complex state management and animations in SwiftUI.
-* **Algorithmic Efficiency:** implemented an unbeatable single-player mode for TicTacToe using the **Minimax Algorithm**, alongside fault-tolerant real-time multiplayer synchronization.
-* **Performance Optimization:** Reduced scroll hitching and memory footprint in list-heavy views by utilizing **Instruments** for profiling and optimizing view recycling.
-* **System Integration:** Integrated high-performance C++ modules into iOS workflows using Objective-C++ wrappers for critical computation tasks.
+🧠 Engineering Focus
 
-### 💼 Work Experience
+Native iOS development using Swift, SwiftUI, and UIKit
 
-**iOS Developer & Designer | PRM Global Tech** *(June 2024 - Mar 2025)*
-* **C++ Integration:** Bridged C++ algorithms via Objective-C++, boosting runtime efficiency by **25%** and ensuring 60fps scrolling.
-* **Scalable Modules:** Shipped critical SwiftUI/MVVM-C features, driving a **15% increase** in user engagement.
-* **Concurrency:** Eliminated race conditions in complex data streams using **Swift Concurrency (Async/Await)**.
+Modular application architecture and separation of concerns
 
-**Mobile Experience Engineer | The VUE Branding** *(April 2023 - May 2024)*
-* **Flow Optimization:** Reduced user drop-off by **20%** during onboarding through optimized navigation patterns.
-* **Performance:** Refined render loops and memory usage to ensure "butter-smooth" interactions across devices.
+Asynchronous data handling using Swift Concurrency
 
-**Creative Partner | POP Club** *(Oct 2023 - March 2024)*
-* **Mobile-First:** Championed strict adherence to iOS Human Interface Guidelines (HIG).
-* **Prototyping:** Validated complex motion concepts using GSAP before engineering handoff.
+Reliable client-side systems under real-world network conditions
 
-### 📱 Selected Projects
+Product-driven engineering with attention to usability and clarity
 
-* **EnglishJi (iOS Platform):** Real-time P2P audio calling app using **WebRTC**, **Node.js**, and **Swift 6**. Reduced latency by 40% vs standard polling.
-* **TicTacToe Multiplayer:** Full-stack iOS game with **Supabase** sync and a custom **Minimax AI** (O(b^d) optimization) for an unbeatable single-player mode.
-* **Ludo iOS Game:** Native SwiftUI implementation featuring deterministic game logic, **Combine** for state management, and polished animations.
+💼 Experience
+iOS Developer & Designer — PRM Global Tech
 
-### 🛠 Skills
+Jun 2024 – Mar 2025
 
-* **Languages:** Swift, C++, Objective-C
-* **Mobile:** SwiftUI, UIKit, Combine, Swift Concurrency, MVVM, XCTest
-* **Systems:** WebRTC, Node.js, Firebase, REST API, JSON Parsing
-* **Tools:** Xcode Instruments, Git, Figma, Adobe XD
+Owned development of core iOS features using SwiftUI within a modular codebase designed for long-term maintainability.
 
-### 🎓 Education & Certifications
+Defined clear separation between UI, state, and business logic, improving testability and scalability.
 
-* **M.Tech in Computer Applications** | KEC, Bhubaneshwar *(Present)*
-* **Bachelors in Computer Applications** | COEB, Bhubaneshwar *(2021)*
-* *Certifications:* iOS & Swift Bootcamp (Udemy), Google UX Design (Coursera), AR/VR Design (Coursera).
+Implemented asynchronous data handling using Swift Concurrency, ensuring predictable state updates and stable behavior under varying network conditions.
 
-### 📬 Contact Me
+Mobile Engineer (iOS) — The Vue Branding
 
-* **Email:** [kirtidhwajpatra@gmail.com](mailto:kirtidhwajpatra@gmail.com)
-* **LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/kirtidhwaj-patra)
-* **LeetCode:** [LeetCode Profile](https://leetcode.com/kirtidhwajpatra2)
+Apr 2023 – May 2024
+
+Worked on a shared, long-lived iOS codebase, making architectural decisions focused on clarity, correctness, and maintainability.
+
+Designed navigation and state-handling patterns to support complex, multi-step user flows.
+
+Integrated backend APIs with defensive error handling and graceful degradation under unreliable network conditions.
+
+Creative Partner — Pop Club
+
+Oct 2023 – Mar 2024
+
+Led UX strategy and experimentation, contributing to measurable improvements in user engagement and retention.
+
+Collaborated closely with engineers to translate interaction concepts into production-ready mobile experiences.
+
+📱 Selected Projects
+EnglishJi — Real-Time Learning Platform
+
+Built a native iOS client enabling real-time audio interactions between users.
+
+Designed a real-time communication layer that reduced end-to-end latency compared to polling-based approaches.
+
+Ludo Multiplayer — Deterministic Game Engine
+
+Developed a native iOS multiplayer game with deterministic game-state synchronization.
+
+Implemented turn-based logic ensuring consistent gameplay across clients.
+
+PulseBoard — Intent-Driven Operations Dashboard
+
+Built an iOS dashboard that dynamically adapts UI based on inferred operational intent.
+
+Designed signal-driven UI rendering to surface critical metrics under high-pressure scenarios.
+
+DeliverSure — Offline-First Delivery System
+
+Built an offline-first delivery system ensuring reliable state synchronization across network failures.
+
+Implemented a deterministic sync engine with persistent action queues for crash recovery and exactly-once processing.
+
+🛠 Skills
+
+Core iOS Engineering
+Swift, SwiftUI, UIKit, App Lifecycle and ARC, MVVM-style Architecture, Swift Concurrency
+
+Data, Networking and Systems
+REST APIs, GraphQL APIs, URLSession, WebSockets, Core Data, Offline-first caching, Keychain
+
+Performance, Quality and Tooling
+Xcode, Instruments, XCTest, CI/CD (Fastlane), Git, App Store release workflows
+
+Algorithms, Design and Product
+Data structures and algorithms, Mobile system design, Accessibility, Localization, Apple Human Interface Guidelines
+
+🎓 Education & Certifications
+
+M.Tech in Computer Applications, KEC Bhubaneshwar (Expected 2026)
+Focus: Software Architecture
+
+B.Tech in Computer Applications, COEB Bhubaneshwar (2021)
+
+Google UX Design Professional Certificate
+
+📬 Contact
+
+Email: kirtidhwajpatra@gmail.com
+
+LinkedIn: https://linkedin.com/in/kirtidhwaj-patra
+
+LeetCode: https://leetcode.com/u/kirtidhwajpatra2
+
+Website: https://www.kirtidhwaj.online
