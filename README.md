@@ -27,7 +27,9 @@ Swift, SwiftUI, UIKit, Swift Concurrency, MVVM-style architecture, REST APIs, We
 M.Tech (Software Architecture) — KEC Bhubaneshwar (Expected 2026)
 B.Tech — COEB Bhubaneshwar (2021)
 
-Google UX Design Professional Certificate
+🧩 Algorithms & DSA
+
+Consistently practicing data structures and algorithms for problem-solving proficiency.
 
 📬 Contact
 
