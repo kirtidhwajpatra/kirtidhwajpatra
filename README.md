@@ -2,8 +2,10 @@
 
 Hi, I’m Kirtidhwaj Patra.
 
-I’m an iOS Engineer with 2.5+ years of experience building native, production-grade iOS applications using Swift, SwiftUI, and UIKit. I focus on modular architecture, concurrency, and reliable client-side systems.
-
+iOS Engineer with 2.6 years of experience building and maintaining high-performance, stable (98%) crash free mobile applications.
+Strong expertise in Swift, Objective-C, SwiftUI, and UIKit, with hands-on experience in concurrency, offline-first synchronization, and
+memory-efficient UI animations. Built real-time WebRTC rooms, deterministic multiplayer systems, and production-grade wallet flows.
+Comfortable owning features end-to-end, mentoring junior engineers, and automating CI workflows.
 🌟 What I Work On
 
 Native iOS development with clean, scalable architectures
@@ -20,7 +22,10 @@ DeliverSure: Offline-first delivery system with reliable state synchronization
 
 🛠 Core Skills
 
-Swift, SwiftUI, UIKit, Swift Concurrency, MVVM-style architecture, REST APIs, WebSockets, Core Data, XCTest, Xcode Instruments, Data Structures & Algorithms
+• Languages & SDK: Swift 5, Objective-C, Cocoa-Touch, UIKit, SwiftUI, MapKit, Core-Animation, Core-Data, Core-Graphics,
+Core-Text, iOS SDK 17.
+• Payments: Razorpay, PayU, 3-D-Secure, Keychain tokenisation, retry queues, PCI-DSS basics.
+• Concurrency: GCD, Operations, async/await, thread-safe collections, Instruments, 
 
 🎓 Education & Certification
 
