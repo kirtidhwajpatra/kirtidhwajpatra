@@ -6,6 +6,7 @@ iOS Engineer with 2.6 years of experience building and maintaining high-performa
 Strong expertise in Swift, Objective-C, SwiftUI, and UIKit, with hands-on experience in concurrency, offline-first synchronization, and
 memory-efficient UI animations. Built real-time WebRTC rooms, deterministic multiplayer systems, and production-grade wallet flows.
 Comfortable owning features end-to-end, mentoring junior engineers, and automating CI workflows.
+
 🌟 What I Work On
 
 Native iOS development with clean, scalable architectures
